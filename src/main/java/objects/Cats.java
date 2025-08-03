@@ -104,6 +104,8 @@ milo.Is_goodCat  = true;
 
         System.out.println("my cat is a very good cat " + mimi.badCat);
 
+            System.out.println("ilove my cat " + mimi.name);
+
 
 
 
