@@ -6,6 +6,8 @@ import java.util.List;
 
 public class ArrayListPractice  {
 
+ // when we have mutiple data in same data type and same category then we use Array.
+
 
 List <String> name = new ArrayList<>();    //we have to call List class and then we need to crate and object to call it also wee need to mention the data type while creating the object.
 
